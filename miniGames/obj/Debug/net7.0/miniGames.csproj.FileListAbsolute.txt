@@ -1,0 +1,15 @@
+c:\Users\Asus\Documents\repos\miniGames\miniGames\bin\Debug\net7.0\miniGames.exe
+c:\Users\Asus\Documents\repos\miniGames\miniGames\bin\Debug\net7.0\miniGames.deps.json
+c:\Users\Asus\Documents\repos\miniGames\miniGames\bin\Debug\net7.0\miniGames.runtimeconfig.json
+c:\Users\Asus\Documents\repos\miniGames\miniGames\bin\Debug\net7.0\miniGames.dll
+c:\Users\Asus\Documents\repos\miniGames\miniGames\bin\Debug\net7.0\miniGames.pdb
+c:\Users\Asus\Documents\repos\miniGames\miniGames\obj\Debug\net7.0\miniGames.csproj.AssemblyReference.cache
+c:\Users\Asus\Documents\repos\miniGames\miniGames\obj\Debug\net7.0\miniGames.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Asus\Documents\repos\miniGames\miniGames\obj\Debug\net7.0\miniGames.AssemblyInfoInputs.cache
+c:\Users\Asus\Documents\repos\miniGames\miniGames\obj\Debug\net7.0\miniGames.AssemblyInfo.cs
+c:\Users\Asus\Documents\repos\miniGames\miniGames\obj\Debug\net7.0\miniGames.csproj.CoreCompileInputs.cache
+c:\Users\Asus\Documents\repos\miniGames\miniGames\obj\Debug\net7.0\miniGames.dll
+c:\Users\Asus\Documents\repos\miniGames\miniGames\obj\Debug\net7.0\refint\miniGames.dll
+c:\Users\Asus\Documents\repos\miniGames\miniGames\obj\Debug\net7.0\miniGames.pdb
+c:\Users\Asus\Documents\repos\miniGames\miniGames\obj\Debug\net7.0\miniGames.genruntimeconfig.cache
+c:\Users\Asus\Documents\repos\miniGames\miniGames\obj\Debug\net7.0\ref\miniGames.dll
