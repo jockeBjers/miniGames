@@ -7,7 +7,7 @@ namespace miniGames
 {
     public class DiceGame
     {
-           private string? playerOne;
+        private string? playerOne;
         private string? playerTwo;
         private bool running = true;
         private UserInterface ui = new();

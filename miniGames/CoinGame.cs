@@ -7,7 +7,7 @@ namespace miniGames
 {
     public class CoinGame
     {
-          private UserInterface ui = new();
+        private UserInterface ui = new();
         private string? playerOne;
         private string? playerTwo;
         private List<int> tails = new();
@@ -120,8 +120,6 @@ namespace miniGames
             GameResults();
             Statistics();
             FinalResult();
-
-            // Reset for next round
             coinFlips = 1;
             tails.Clear();
             heads.Clear();

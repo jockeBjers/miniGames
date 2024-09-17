@@ -7,7 +7,7 @@ namespace miniGames
 {
     public class UserInterface
     {
-                public void Start()
+        public void Start()
         {
             Console.Clear();
             CoinGame coinToss = new();
